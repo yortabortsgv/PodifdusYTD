@@ -24,7 +24,6 @@ jobs:
         destination_repo: 'Tasmota/docs'
         destination_branch: 'development'
         destination_folder: 'docs'
-        user_email: 'github-actions@github.com'
         user_name: 'github-actions'
         commit_message: 'I2CDevices.md changed'
     - name: Push Builds.md to https://github.com/Tasmota/docs
